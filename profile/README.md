@@ -28,7 +28,7 @@ and industry collaboration — as a single unified effort.
 This GitHub organization hosts the lab's code and computational
 artifacts. Most repositories are private to lab members and
 collaborators; selected resources are open. For the lab's research
-publications, members, activities, and the Ijiri Lecture Series, please
+publications, members, and activities, please
 visit the lab website.
 
 ## Links
@@ -38,7 +38,7 @@ visit the lab website.
 - **Research:** https://www.cmu.edu/tepper/accounting-lab/research/
 - **Publications and resources:** https://www.cmu.edu/tepper/accounting-lab/publications/
 
-## Director
+## Founder and Director
 
 **Pierre Jinghong Liang**  
 Tepper School of Business  
